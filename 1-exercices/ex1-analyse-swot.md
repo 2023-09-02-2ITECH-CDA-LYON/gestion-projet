@@ -21,5 +21,6 @@ Je suis un photographe indépendant et j'ai besoin d'un CRM adapté à mes besoi
 - Gestion des événements (vue des séances sur calendrier)
 
 [Lien de l'offre](https://www.codeur.com/projects/330179-creation-d-un-crm)
+
 [Lien du site web du client](https://justinehphotography.com/)
 
