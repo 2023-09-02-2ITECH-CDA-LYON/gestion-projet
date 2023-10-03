@@ -11,6 +11,7 @@
 3. Une analyse de risques ;
 4. Planifiez une ou plusieurs réunions en précisant les objectifs, l'ordre du jour, les participants, la durée, etc. à l'aide de la méthode CQQCOQP (bien commencer par le pourquoi qui conditionne plus ou moins le reste)
 
+
 ---
 
 ## Offre
@@ -18,3 +19,13 @@
 *"Je veux créer un logiciel personnel qui me permettra de gérer mes stocks de pièces, mes rendez-vous, de créer des fiches clientes et de suivre les vélos de mes clients tous en stockant les infos importantes de chaque client."*
 
 [Lien de l'offre](https://www.codeur.com/projects/392247-logiciel-qui-permettra-de-suivre-la-vente-et-reparation-des-velo)
+
+---
+
+## Informations supplémentaires
+
+1. Le client veut lancer un la solution à développer en Mars 2024
+
+2. Le client est localisé sur Paris
+
+3. Actuellement, le client fait tout sur Excel.
