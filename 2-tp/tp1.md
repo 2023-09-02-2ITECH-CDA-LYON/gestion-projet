@@ -6,10 +6,10 @@
 
 À partir des besoins exprimés par le client ci-après, faites : 
 
-1. Une analyse SWOT ;
-2. Une analyse des besoins ;
+1. Une analyse des besoins ;
+2. Une analyse SWOT ;
 3. Une analyse de risques ;
-4. Planifiez une ou plusieurs réunions en précisant les objectifs, l'ordre du jour, les participants, la durée et le coût.
+4. Planifiez une ou plusieurs réunions en précisant les objectifs, l'ordre du jour, les participants, la durée, etc. à l'aide de la méthode CQQCOQP (bien commencer par le pourquoi qui conditionne plus ou moins le reste)
 
 ---
 
