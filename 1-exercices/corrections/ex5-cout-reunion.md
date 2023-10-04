@@ -7,5 +7,4 @@
 - Coût total = Temps en heure * coût total / 151.69 = 0.67 * 3 958 / 151.69 = **17.48 €**
 - 151.69 = 21.67 *7 
 - 0.67 est la conversion de 40 minutes en heure.
-- Plus le café et viennoiserie = **10 €**
-- **Total = 27.48 €**
+- **Total = 17.48 €**
