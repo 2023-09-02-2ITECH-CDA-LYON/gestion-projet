@@ -7,17 +7,17 @@
 ### Avantages
 
 1. Efficace pour les projets prévisibles.
-2. Planification précise.
-3. Mise en place facile.
+2. Planification précise (exemple Gantt).
+3. Mise en place facile (Gantt).
 
 ### Inconvénients
 
 1. Peu adapté pour les projets complexes.
-2. Communication principalement à travers des documents.
+2. Communication principalement à travers des documents (cahier des charges).
 3. Un peu plus difficile de gérer les imprévus.
 4. Coût élevé des imprévus.
 5. Rigide.
-6. Effet tunnel.
+6. Effet tunnel(évolution du besoin qu'on ne tient pas compte durant les phases de conception et développement).
 7. Le client est très sollicité à la phase de démarrage et beaucoup moins par la suite.
 8. Durée longue de réalisation qui peut donner lieu à la livraison d'un produit obsolète par rapport à la réglementation en cours, le marché actuel, l'évolution du besoin, etc.
 9. Fortes dépendances entre les phases (linéaires, séquentielles), une mauvaise appréciation de l'étape précédente peut entraîner un effet de boule de neige pour les phases suivantes.
