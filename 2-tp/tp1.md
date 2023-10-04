@@ -11,7 +11,6 @@
 3. Une analyse de risques ;
 4. Planifiez une ou plusieurs réunions en précisant les objectifs, l'ordre du jour, les participants, la durée, etc. à l'aide de la méthode CQQCOQP (bien commencer par le pourquoi qui conditionne plus ou moins le reste)
 
-
 ---
 
 ## Offre
