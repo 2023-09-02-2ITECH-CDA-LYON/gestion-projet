@@ -11,7 +11,7 @@
 
 ## Énoncé
 
-1. À partir des besoins ci-dessous, construisez votre *Product Backlog* en suivant la méthode du [splitpoker](./ressources/us/splitpoker.pdf).
+1. À partir des besoins ci-dessous, construisez votre *Product Backlog* en suivant la méthode du [splitpoker](../ressources/us/splitpoker.pdf) ou INVEST ou une autre méthode.
 2. À l'aide de l'extension *Story mapping*, regroupez vos Product Backlog Items (*US*, tâches, besoins non-fonctionnels (NFR), etc) dans les epics (*Epic* est une macro-fonctionnalité qui regroupe plusieurs éléments (tickets sur *Jira*) de votre Product Backlog).
 Par exemple l'epic "espace membre" dans le cadre d'un site e-commerce regroupe plusieurs sujets tels que :
 - Tableau de bord
